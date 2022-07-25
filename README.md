@@ -1,0 +1,3 @@
+# COVID_Analysis_of_university_life
+课程作业：
+主要根据数据分析，我们疫情的反复对同学们的生活和心态的影响
